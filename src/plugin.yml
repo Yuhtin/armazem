@@ -1,0 +1,6 @@
+name: Armazem
+version: '0.1-SNAPSHOT'
+author: Yuhtin
+main: com.yuhtin.minecraft.armazem.Storage
+commands:
+  armazem:

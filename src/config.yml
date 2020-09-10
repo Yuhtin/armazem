@@ -1,0 +1,17 @@
+Connection:
+  Type: SQLite
+  IP: ''
+  Database: ''
+  User: ''
+  Password: ''
+
+Itens:
+  # Material
+  CACTUS:
+    # Name
+    Name: 'Cacto'
+    # Per item
+    Price: 4
+  CARROT:
+    Name: 'Cenoura'
+    Price: 1
